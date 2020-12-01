@@ -4,11 +4,11 @@
 https://bit.ly/3ocywa4
 
 # Features
-– The CNN is built with Tensorflow v2.2
-– Model: VGG16
-– Techniques: Data Augmentation, Dropout
-– Epochs training: 50
-– Training/Validation accuracy: 85-90%
+- The CNN is built with Tensorflow v2.2
+- Model: VGG16
+- Techniques: Data Augmentation, Dropout
+- Epochs training: 50
+- Training/Validation accuracy: 85-90%
 
 # Credit
 https://bit.ly/3qfq0Zy
