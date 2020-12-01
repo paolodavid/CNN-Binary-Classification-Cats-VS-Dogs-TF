@@ -11,5 +11,5 @@ https://bit.ly/3ocywa4
 - Training/Validation accuracy: 85-90%
 
 # Credits
-https://bit.ly/3qfq0Zy
-https://bit.ly/3fSJUVv
+- https://bit.ly/3qfq0Zy
+- https://bit.ly/3fSJUVv
