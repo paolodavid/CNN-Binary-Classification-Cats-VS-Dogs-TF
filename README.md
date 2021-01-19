@@ -1,7 +1,7 @@
 # Convolutional Neural Network(CNN)🧠 for a binary classification to recognize between a cat😸 and a dog🐶.
 
-# Link to test it
-https://bit.ly/3ocywa4
+# Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qsagCK3TmEg/0.jpg)](https://www.youtube.com/watch?v=qsagCK3TmEg)
 
 # Features
 - The CNN is built with Tensorflow v2.2
